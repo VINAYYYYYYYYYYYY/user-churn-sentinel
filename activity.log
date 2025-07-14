@@ -2,3 +2,4 @@
 2025-07-10 20:58:09 - fix: resolve dependency conflicts
 2025-07-14 09:26:09 - feat: implement core logic
 2025-07-14 09:10:09 - feat: integrate logging and error handling
+2025-07-14 13:53:09 - docs: document API endpoints
