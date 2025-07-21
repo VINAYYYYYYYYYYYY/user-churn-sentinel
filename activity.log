@@ -4,3 +4,4 @@
 2025-07-14 09:10:09 - feat: integrate logging and error handling
 2025-07-14 13:53:09 - docs: document API endpoints
 2025-07-21 15:28:09 - feat: integrate logging and error handling
+2025-07-21 14:46:09 - test: add unit tests for model validation
