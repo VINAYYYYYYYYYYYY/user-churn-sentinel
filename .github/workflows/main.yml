@@ -1,0 +1,1 @@
+name: ML Classification CI\non: [push]\njobs:\n  test:\n    runs-on: ubuntu-latest\n    steps:\n    - uses: actions/checkout@v3\n    - name: Install dependencies\n      run: pip install -r requirements.txt
